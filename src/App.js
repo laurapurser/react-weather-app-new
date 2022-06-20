@@ -10,7 +10,6 @@ export default function App() {
     <div className="container">
       <Favourites />
       <SearchForm />
-
       <SixDay />
       <Footer />
     </div>
