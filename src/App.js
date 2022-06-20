@@ -1,7 +1,8 @@
+import React from "react";
 import "./styles.css";
 import Favourites from "./Favourites.js";
 import SearchForm from "./SearchForm.js";
-import SearchResults from "./SearchResults.js";
+
 import SixDay from "./SixDay.js";
 import Footer from "./Footer.js";
 
